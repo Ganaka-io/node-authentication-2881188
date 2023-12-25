@@ -29,7 +29,7 @@ To resolve this issue:
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. [Course-specific instructions]
 
-
+token: octacat_token1234567856
 ### Instructor
 
 Daniel Khan 
